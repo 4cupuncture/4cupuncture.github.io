@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Jinglin Wang (Tom) </a>. tomgeniewang@yahoo.com
 
 profile:
   align: right
